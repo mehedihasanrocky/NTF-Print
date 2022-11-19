@@ -1,0 +1,168 @@
+@media all and (max-width:1150px) {
+    .single-crypto {
+        margin-right: 20px;
+    }
+    .single-crypto:last-child {
+        margin-right: 0;
+    }
+    .right-bg img {
+        right: 65px;
+    }
+    .delivery-area ul li a {
+        padding: 10px 10px;
+       
+    }
+
+
+
+
+@media all and (max-width: 1076px) {
+    
+   
+}
+
+
+
+
+@media all and (max-width: 991px) {
+
+    .carousel {
+        margin: 0 25px;
+    }
+    .carousel-content {
+     max-width: 100%;
+    }
+    .img-area ul {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .carousel-content {
+        text-align: center;
+    }
+    .carousel-single-item p {
+        max-width: 950px;
+    }
+    .owl-carousel .owl-item img {
+        display: inherit;
+    }
+    .delivery-area ul li a {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .col-md-6.col-xl-4 {
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+
+
+
+@media all and (max-width: 767px) {
+    .header h2 {
+        text-align: center;
+    }
+    .header p {
+        padding-top: 20px;
+        max-width: 318px;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .address-area {
+        padding-top: 86px;
+    }
+    form p span{
+        display: block;
+    }
+    .carousel-title h2 {
+        text-align: center;
+    }
+    .carousel-area {
+        padding-top: 201px;
+    }
+    .owl-theme .owl-nav {
+        margin-top: 10px;
+        position: absolute;
+        top: -100px;
+        right: 210px;
+        font-size: 32px;
+    }
+    .print-title h2 {
+        text-align: center;
+    }
+    .img-area ul li p {
+        max-width: 269px;
+    }
+    img {
+        width: 482px;
+        padding: 10px;
+    }
+    .img-area ul {
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+    }
+    .img-area ul li p {
+        margin-left: 0;
+    }
+    .col-md-6.col-xl-4 {
+        margin-bottom: 40px;
+    }
+    .pay-title h2 {
+        text-align: center;
+    }
+    .bd-top {
+        border-top: 10px solid #07E286;
+        width: 62px;
+        margin: auto;
+    }
+    .shipment-content h2 {
+        font-size: 40px;
+        max-width: 433px;
+    }
+    .shipment-content img {
+        width: 433px;
+    }
+    .right-bg img {
+        position: absolute;
+        border-radius:10%;
+        right: 200px;
+        max-width: 312px;
+        top: 442px;
+        left: 28%;
+    }
+    .shipment-area {
+        background-color: #111;
+        padding-bottom: 400px;
+        position: relative;
+        object-fit: cover;
+    }
+    .footer-icon ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-icon ul li a img {
+        width: 50px;
+        padding: 10px;
+    }
+    .footer-left {
+        text-align: center;
+    }
+    .copyright-area p {
+        text-align: center;
+    }
+    
+
+
+
+
+
+
+}
+ 
